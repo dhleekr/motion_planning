@@ -24,6 +24,6 @@ $ git pull --recurse-submodules
 ```
 
 ## Test
-'''
+```
 $ python main.py
-'''
+```
