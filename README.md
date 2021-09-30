@@ -14,3 +14,11 @@ However, new features will continue to be introduced first through **pybullet-pl
 ## Citation
 
 Caelan Reed Garrett. PyBullet Planning. https://pypi.org/project/pybullet-planning/. 2018.
+
+## Installation
+
+```
+$ git clone --recurse-submodules https://github.com/dhleekr/motion_planning.git
+$ pip install -r requirements.txt
+$ git pull --recurse-submodules
+```
