@@ -1,4 +1,8 @@
-# from examples.test_pr2_motion import SLEEP
+"""
+
+Author : Doohyun Lee
+
+"""
 import pybullet as p
 import pybullet_data
 import time
