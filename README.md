@@ -22,3 +22,8 @@ $ git clone --recurse-submodules https://github.com/dhleekr/motion_planning.git
 $ pip install -r requirements.txt
 $ git pull --recurse-submodules
 ```
+
+## Test
+'''
+$ python main.py
+'''
